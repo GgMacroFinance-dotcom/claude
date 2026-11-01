@@ -1,0 +1,7 @@
+case,X_slack_pctGDP,X_ext_pctGDP,X_carbon_pctGDP,X_eff_pctGDP
+消费性,7.09,inf,5.03,5.03
+绿色：全部效应,7.38,inf,inf,7.38
+绿色：只有产能效应（psi_sigma=0）,7.38,inf,4.56,4.56
+绿色：只有减排效应（theta_g=0）,7.09,inf,inf,7.09
+绿色：进口含量 alpha_g=0.10,6.78,inf,inf,6.78
+绿色：进口含量 alpha_g=0.30,8.81,inf,inf,8.81

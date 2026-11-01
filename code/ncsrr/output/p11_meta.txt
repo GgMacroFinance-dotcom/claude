@@ -1,0 +1,5 @@
+impact_multiplier=1.386236
+shock_scale=0.061672
+Lbar=3.88
+household_beta=0.996074
+MPC_optimizers=0.010763
